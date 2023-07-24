@@ -1,3 +1,11 @@
+## Project ScreenShots
+
+![image](https://github.com/Krutarth19/Promptopia/assets/92313715/b63e2e49-f6e6-42c7-9477-8c2159ab2c48)
+![image](https://github.com/Krutarth19/Promptopia/assets/92313715/3cfdcde0-7295-4849-9309-036a30acf86f)
+![image](https://github.com/Krutarth19/Promptopia/assets/92313715/65ee8e47-3ed3-4fe0-8c6f-0818128fdcb2)
+![image](https://github.com/Krutarth19/Promptopia/assets/92313715/bdaff0e7-aea2-4015-ad90-caaead985f92)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
