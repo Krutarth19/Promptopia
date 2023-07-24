@@ -1,3 +1,6 @@
+## Deployment 
+https://promptopia-sigma-cyan.vercel.app/
+
 ## Project ScreenShots
 
 ![image](https://github.com/Krutarth19/Promptopia/assets/92313715/b63e2e49-f6e6-42c7-9477-8c2159ab2c48)
